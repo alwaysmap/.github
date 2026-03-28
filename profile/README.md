@@ -1,3 +1,3 @@
 ## Welcome to AlwaysMaps 👋
 
-An AlwaysMap is where people, journeys, and places come together to make stories that last forever.
+[AlwaysMap Consulting](https://alwaysmap.com) and the [AlwaysMap web app](https://alwaysmap.app).
